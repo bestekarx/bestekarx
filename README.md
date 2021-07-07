@@ -8,6 +8,7 @@
 - 💬 I can design, code, package and hand over a project from start to finish (pretentious) ...
 - 😄 I love my job ...
 - ⚡ I can't share my reference apps for privacy reasons, but if you follow me maybe I can share them with YOU. 
+- https://www.linkedin.com/in/alpereneker/
 - https://www.instagram.com/bestekarx/
 - https://www.facebook.com/bestekarx
 - alperen@eceyazilim.com
