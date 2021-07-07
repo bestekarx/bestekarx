@@ -1,5 +1,5 @@
 ### Hi there i am ALPEREN EKER 👋
-### Get rid of Turkey/Çorum. I have been developing mobile applications for about 5 years. I work at https://www.eceyazilim.com
+### I live in Turkey/Çorum . I have been developing mobile applications for about 5 years. I work at https://www.eceyazilim.com
 
 
 - 🌱 I have developed and continue to develop more than ten projects using xamarin and android studio. I also worked on website projects using wordpress and asp.net...
