@@ -17,12 +17,14 @@
 My freelance project:
 - https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
 - https://play.google.com/store/apps/details?id=com.dehapos.app
+- https://appgallery.huawei.com/#/app/C104727005
 - https://apps.apple.com/kz/app/dehapos-hali-yikama-programi/id1553131502
 - https://ysftuning.com/
 - https://randevu.ysftuning.com/
 - https://sanalmenu.net/
 - https://menu.sehriterascafe.com/
-
+- 
+My:------------------------------
 - https://www.linkedin.com/in/alpereneker/
 - https://www.instagram.com/bestekarx/
 - https://www.facebook.com/bestekarx
