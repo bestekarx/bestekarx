@@ -14,6 +14,15 @@
 - I can develop service architectures such as SOAP, JSON, XML, Web Api, WCF.
 - I try to pay attention to the designs, code quality and documentation of the applications I develop.
 
+My freelance project:
+- https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
+- https://play.google.com/store/apps/details?id=com.dehapos.app
+- https://apps.apple.com/kz/app/dehapos-hali-yikama-programi/id1553131502
+- https://ysftuning.com/
+- https://randevu.ysftuning.com/
+- https://sanalmenu.net/
+- https://menu.sehriterascafe.com/
+
 - https://www.linkedin.com/in/alpereneker/
 - https://www.instagram.com/bestekarx/
 - https://www.facebook.com/bestekarx
