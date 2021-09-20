@@ -8,7 +8,7 @@
 - 💬 I can design, code, package and hand over a project from start to finish
 - 😄 I love my job ...
 - I would like to talk about my work:
-- I develop mobile applications using android studio and xamarin as native and hybrid in Oop and mvvm concept.
+- I develop mobile applications using android studio and xamarin as native and hybrid in mvvm concept.
 - I have many apps in google play store, app store and huawei app gallery.
 - I can develop service architectures such as SOAP, JSON, XML, Web Api, WCF. 
 - I try to pay attention to the designs, code quality and documentation of the applications I develop.
