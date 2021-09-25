@@ -2,22 +2,21 @@
 ### I live in Turkey/Çorum . I have been developing mobile applications for about 5 years. I work at https://www.eceyazilim.com
 ### Mobile application developer expert
 
-- 🌱 I have developed and continue to develop more than ten projects using xamarin and android studio. I also worked on website projects using wordpress and asp.net...
-- 👯 I have multiple personal and workplace applications in app store, google play and huawei app gallery ...
-- 🤔 It can be said that I am good at design to code
-- 💬 I can design, code, package and hand over a project from start to finish
-- 😄 I love my job ...
-- I would like to talk about my work:
-- I am developing android and ios mobile applications using android studio (java) and xamarin (c#) in MVVM concept.
-- I have many apps in google play store, app store and huawei app gallery.
-- I can develop service architectures such as SOAP, JSON, XML, Web Api, WCF. 
-- I try to pay attention to the designs, code quality and documentation of the applications I develop.
-- I worked with RFID technology ZEBRA SDKS. (reading and processing RFID chips from mobile app)
-- I wrote background services that sending signal at regular intervals. (android&ios)
-- I worked push notification services with.
-- Design to xaml&xml
-
-- 
+about my job
+- The purpose of the project is to read the ### RFID chip placed on the objects according to the purpose of the application.
+Application that reads the identity of rfid chips with Zebra rfid sdks,
+It performs necessary operations on both sqlite and server via API and takes output with bluetooth printer.
+There are many mini details in the applications.
+Barcode reading with camera or zebra device,
+operation with any hardware key on the device (quick barcode reading key), reading nfc card types and using them instead of signature.... ((android)java)
+- Adisyon application for businesses such as real-time cafes, restaurants, bars.
+A mobile application that places orders and prints out real-time tables via API. See also reports of all transactions made. (android(java))
+- Mobile application that reads and processes NFC cards.
+The application that changes the balances of the cards read according to the shopping made. See the transactions made with the administration panel.
+- Corporate website style native application that displays dealers, products, news, warranty information of the production factory on maps using Xamarin forms.. (android&ios)
+- Mobile saas for carpet washing factories.
+Creating a task within the carpet washing companies and keeping records of the transactions such as receiving, delivering and washing the carpets through the application,
+Comprehensive mobile application that sends sms information to customers and receives printouts. (android&ios)
 
 My freelance project:
 - https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
