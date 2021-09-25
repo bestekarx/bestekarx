@@ -3,7 +3,7 @@
 ### Mobile application developer expert
 
 about my job
-- The purpose of the project is to read the ### RFID chip placed on the objects according to the purpose of the application.
+- The purpose of the project is to read the RFID chip placed on the objects according to the purpose of the application.
 Application that reads the identity of rfid chips with Zebra rfid sdks,
 It performs necessary operations on both sqlite and server via API and takes output with bluetooth printer.
 There are many mini details in the applications.
