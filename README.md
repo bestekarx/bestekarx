@@ -1,6 +1,7 @@
-### Hi there i am ALPEREN EKER 👋
-### I live in Turkey/Çorum . I have been developing mobile applications for about 5 years. I work at https://www.eceyazilim.com
+
 ### Mobile application developer expert
+### Hi there i am ALPEREN EKER 👋
+23 years old. I live in Çorum. I am developing android native and hybird mobile applications. I have many apps in google play store and app store. I have been in business for over 5 years. Professionally, I have developed android and ios projects using java and c# for +3 years. I am accustomed to business life, I am prone to teamwork. 
 
 about my job
 - The purpose of the project is to read the RFID chip placed on the objects according to the purpose of the application.
