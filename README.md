@@ -20,7 +20,6 @@ Creating a task within the carpet washing companies and keeping records of the t
 Comprehensive mobile application that sends sms information to customers and receives printouts. (android&ios)
 - and a work experience
 My freelance project:
-- https://play.google.com/store/apps/details?id=com.dehapos.app
 - https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
 - https://play.google.com/store/apps/details?id=com.dehapos.app
 - https://appgallery.huawei.com/#/app/C104727005
