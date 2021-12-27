@@ -18,8 +18,9 @@ The application that changes the balances of the cards read according to the sho
 - Mobile saas for carpet washing factories.
 Creating a task within the carpet washing companies and keeping records of the transactions such as receiving, delivering and washing the carpets through the application,
 Comprehensive mobile application that sends sms information to customers and receives printouts. (android&ios)
+- and many projects that I couldn't share due to the confidentiality I did within the company...
 - and a work experience
-My freelance project:
+A few works of mine that i can share:
 - https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
 - https://play.google.com/store/apps/details?id=com.dehapos.app
 - https://appgallery.huawei.com/#/app/C104727005
