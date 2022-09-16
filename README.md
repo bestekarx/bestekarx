@@ -1,7 +1,16 @@
 
 ### Mobile application developer expert
 ### Hi there i am ALPEREN EKER 👋
-I am developing native and hybird mobile applications. I have many apps in google play store and app store. I have been in business for over 5 years. Professionally, I have developed android and ios projects using java and c# for +3 years. I am accustomed to business life, I am prone to teamwork. 
+I am Alperen, 25 years old, I live in Çorum. Since I became aware of myself, I have been interested in software and technologies.
+
+I am an Android & iOS mobile application developer. I develop Android applications with Xamarin c# (Hybird) and Android with iOS -- JAVA, KOTLIN (Native).
+
+I am very experienced in Design TO App and BackEnd. I can do the front and back parts of an application, database design and connection, api management and api, that is, all the operations from the idea to the release of the application on the market.
+
+I have hardware mobile software experience such as RFiD chips, NFC cards, Pos printers.
+
+I have many applications in the Google Play Store and App Store that I have developed personally and within the company I have worked for more than 5 years.
+
 
 about my job
 - The purpose of the project is to read the RFID chip placed on the objects according to the purpose of the application.
@@ -20,16 +29,10 @@ Creating a task within the carpet washing companies and keeping records of the t
 Comprehensive mobile application that sends sms information to customers and receives printouts. (android&ios)
 - and many projects that I couldn't share due to the confidentiality I did within the company...
 - and a work experience
-A few works of mine that i can share:
-- https://play.google.com/store/apps/details?id=com.dehaposhaliyikama.app
-- https://play.google.com/store/apps/details?id=com.dehapos.app
-- https://appgallery.huawei.com/#/app/C104727005
-- https://apps.apple.com/kz/app/dehapos-hali-yikama-programi/id1553131502
-- https://ysftuning.com/
-- https://randevu.ysftuning.com/
-- https://sanalmenu.net/
-- https://menu.sehriterascafe.com/
-- 
+
+Contact me for my portfolio.
+
+
 My:------------------------------
 - https://www.upwork.com/freelancers/~016310ad04367d2bee
 - https://www.linkedin.com/in/alpereneker/
