@@ -34,11 +34,10 @@ Contact me for my portfolio.
 
 
 My:------------------------------
-- https://www.upwork.com/freelancers/~016310ad04367d2bee
 - https://www.linkedin.com/in/alpereneker/
 - https://www.instagram.com/bestekarx/
 - https://www.facebook.com/bestekarx
-- alperen@eceyazilim.com
+- alperen.eker@idesse.com.tr
 - bestekarx@gmail.com
 - +90 553 766 7909
 ### thanks
