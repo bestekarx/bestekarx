@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Alperen</h1>
-<p>I have been interested in software and technologies for a long time. <br/> I am a professional Xamarin developer. <br/> I have also developed native android applications using java and kotlin before. <br/> I have published many applications in Mobile Application Markets such as Google Play Store, Apple Store, App Gallery. <br/> For more than 5 years, I have been involved in many projects individually and as a team. <br/> I have the experience to do all the processes of an application from imagination to launch. I am a member of a great software team at Idesse.</p>
+<p>I have been interested in software and technologies for a long time. <br/> I am a professional <b>Xamarin</b> developer. <br/> I have also developed native android applications using <b>java</b> and <b>kotlin</b> before. <br/> I have published many applications in Mobile Application Markets such as <b>Google Play Store</b>, <b>Apple Store</b>, <b>App Gallery</b>. <br/> For more than 5 years, I have been involved in many projects individually and as a team. <br/> I have the experience to do all the processes of an application from imagination to launch. I am a member of a great software team at Idesse.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
