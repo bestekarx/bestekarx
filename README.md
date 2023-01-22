@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Alperen</h1>
-<p>I have been interested in software and technologies for a long time. <br/> I am a professional <b>Xamarin</b> developer. <br/> I have also developed native android applications using <b>java</b> and <b>kotlin</b> before. <br/> I have published many applications in Mobile Application Markets such as <b>Google Play Store</b>, <b>Apple Store</b>, <b>App Gallery</b>. <br/> For more than 5 years, I have been involved in many projects individually and as a team. <br/> I have the experience to do all the processes of an application from imagination to launch. I am a member of a great software team at Idesse.</p>
+<p>I have been interested in software and technologies for a long time. <br/> I am a professional <b>XAMARIN</b> developer. <br/> I have also developed native android applications using <b>java</b> and <b>kotlin</b> before. <br/> I have published many applications in Mobile Application Markets such as <b>Google Play Store</b>, <b>Apple Store</b>, <b>App Gallery</b>. <br/> For more than 5 years, I have been involved in many projects individually and as a team. <br/> I have the experience to do all the processes of an application from imagination to launch. I am a member of a great software team at Idesse.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bestd3v1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bestd3v1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alpereneker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpereneker" height="30" width="40" /></a>
-<a href="https://instagram.com/bestekarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bestekarx" height="30" width="40" /></a>
+<a href="https://twitter.com/bestd3v1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bestd3v1" height="30" width="40" target="_blank" /></a>
+<a href="https://linkedin.com/in/alpereneker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpereneker" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/bestekarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bestekarx" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
