@@ -1,8 +1,7 @@
 
-### Mobile application developer expert
-### Hi there i am ALPEREN EKER 👋
+### Hi there i am ALPEREN 👋
 
-Hi, i'm alperen. I have been interested in software and technologies for a long time.
+I have been interested in software and technologies for a long time.
 I am a professional Xamarin developer.
 Also, I have developed native android applications using java and kotlin before.
 I have published many applications in Mobile Application Markets such as Google Play Store, Apple Store, App Gallery.
