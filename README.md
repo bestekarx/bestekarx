@@ -13,6 +13,5 @@ My:------------------------------
 - https://www.linkedin.com/in/alpereneker/
 - alperen.eker@idesse.com.tr
 - bestekarx@gmail.com
-- 
 ### thanks
 
