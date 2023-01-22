@@ -1,8 +1,8 @@
 
 ### Hi there i am ALPEREN 👋
 
-I have been interested in software and technologies for a long time.
-I am a professional Xamarin developer.
+- I have been interested in software and technologies for a long time.
+- I am a professional Xamarin developer.
 Also, I have developed native android applications using java and kotlin before.
 I have published many applications in Mobile Application Markets such as Google Play Store, Apple Store, App Gallery.
 For more than 5 years, I have been involved in many projects individually and as a team.
