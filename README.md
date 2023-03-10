@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm Alperen</h1>
-<p>I have been interested in software and technologies for a long time. <br/> I am a professional <b>XAMARIN</b> developer. <br/> I have also developed native android applications using <b>java</b> and <b>kotlin</b> before. <br/> I have published many applications in Mobile Application Markets such as <b>Google Play Store</b>, <b>Apple Store</b>, <b>App Gallery</b>. <br/> For more than 5 years, I have been involved in many projects individually and as a team. <br/> I have the experience to do all the processes of an application from imagination to launch. I am a member of a great software team at Idesse.</p>
+<p>I have extensive experience in developing mobile applications for Android, iOS, and Universal Windows Platform (UWP) using the C# software language, .NET framework, and various other technologies. Moreover, my skills are not limited to C# alone, as I have also developed four Android applications using Java language. My portfolio boasts a wide range of applications, which can be found on the Google Play Store, AppStore, and Huawei App Gallery.
+One area of specialization in which I have significant experience is the development of mobile applications for the health sector. Using RFID technology and Zebra-branded equipment such as RFID readers and Zebra Mobile Printers, I have created specific applications that cater to the unique needs of the sector.
+In addition to my application development work, I have also provided software consultancy services on Upwork to clients located in countries far from my own. I have helped other developers with bug fixes and have even developed mobile applications from scratch.
+Overall, I am proud to have been developing software for over five years and am always keen to take on new challenges and expand my horizons.
+ </br>I am an active member of <b>Idesse</b>'s great software team, working as a Mobile Developer Expert.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
