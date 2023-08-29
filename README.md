@@ -3,7 +3,6 @@
 One area of specialization in which I have significant experience is the development of mobile applications for the health sector. Using RFID technology and Zebra-branded equipment such as RFID readers and Zebra Mobile Printers, I have created specific applications that cater to the unique needs of the sector.
 In addition to my application development work, I have also provided software consultancy services on Upwork to clients located in countries far from my own. I have helped other developers with bug fixes and have even developed mobile applications from scratch.
 Overall, I am proud to have been developing software for over five years and am always keen to take on new challenges and expand my horizons.
- </br>I am an active member of <b>Idesse</b>'s great software team, working as a Mobile Developer Expert.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
