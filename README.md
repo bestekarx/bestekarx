@@ -4,9 +4,7 @@
 Thanks to my extensive knowledge of the .NET ecosystem, I can successfully manage a project from initial design to deployment. Additionally, I provide consultancy services to international clients through Upwork. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bestd3v1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bestd3v1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alpereneker" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpereneker" height="30" width="40" /></a>
-<a href="https://instagram.com/bestekarx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bestekarx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
