@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Alperen</h1>
-<p>I have extensive experience in developing mobile applications for Android, iOS, and Universal Windows Platform (UWP) using the C# software language, .NET framework, and various other technologies. Moreover, my skills are not limited to C# alone, as I have also developed four Android applications using Java language. My portfolio boasts a wide range of applications, which can be found on the Google Play Store, AppStore, and Huawei App Gallery.
-One area of specialization in which I have significant experience is the development of mobile applications for the health sector. Using RFID technology and Zebra-branded equipment such as RFID readers and Zebra Mobile Printers, I have created specific applications that cater to the unique needs of the sector.
-In addition to my application development work, I have also provided software consultancy services on Upwork to clients located in countries far from my own. I have helped other developers with bug fixes and have even developed mobile applications from scratch.
-Overall, I am proud to have been developing software for over five years and am always keen to take on new challenges and expand my horizons.
+<p>With over 5 years of experience in mobile application development, I deliver effective solutions for Android and iOS platforms. I have developed various mobile projects using C#, .NET MAUI, Java, and Kotlin technologies. My expertise spans fleet management, tire tracking and maintenance systems, healthcare applications, and bus ticketing systems.
 
+Thanks to my extensive knowledge of the .NET ecosystem, I can successfully manage a project from initial design to deployment. Additionally, I provide consultancy services to international clients through Upwork. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bestd3v1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bestd3v1" height="30" width="40" /></a>
