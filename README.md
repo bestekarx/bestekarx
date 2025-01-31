@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Alperen</h1>
-<p>With over 5 years of experience in mobile application development, I deliver effective solutions for Android and iOS platforms. I have developed various mobile projects using C#, .NET MAUI, Java, and Kotlin technologies. My expertise spans fleet management, tire tracking and maintenance systems, healthcare applications, and bus ticketing systems.
+<p> I am an experienced mobile application developer with over 5 years of expertise in building innovative solutions for Android and iOS platforms. Proficient in C#, .NET MAUI, and Kotlin, I have successfully developed applications for diverse industries, including fleet management, tire tracking, healthcare, and bus ticketing systems.
 
-Thanks to my extensive knowledge of the .NET ecosystem, I can successfully manage a project from initial design to deployment. Additionally, I provide consultancy services to international clients through Upwork. </p>
+I have strong expertise in IoT integrations involving RFID systems, Zebra devices, and mobile printers. With a comprehensive understanding of the .NET ecosystem, I manage projects from initial design to deployment. Additionally, I have participated in numerous other projects and provide consultancy services to international clients through Upwork. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alpereneker" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpereneker" height="30" width="40" /></a>
